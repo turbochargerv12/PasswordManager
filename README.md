@@ -18,7 +18,7 @@ Prerequisites:
 - Get the code,
 ```js
 
-git clone https://github.com/Imira-S-R/PasswordManager
+gh repo clone turbochargerv12/PasswordManager
 
 ```
 - Run the project
